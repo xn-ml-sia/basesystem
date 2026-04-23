@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-04-23T09:36:55.206Z",
+  "durationMs": 12437,
+  "sourceRepository": "https://github.com/uber/baseweb",
+  "sourceBranch": "main",
+  "outputRoot": "public/baseweb-styles",
+  "files": {
+    "tokensCss": "public/baseweb-styles/tokens.css",
+    "tokensJson": "public/baseweb-styles/tokens.json",
+    "componentCssDir": "public/baseweb-styles/components",
+    "styleObjectsDir": "public/baseweb-styles/style-objects",
+    "coverageReport": "public/baseweb-styles/reports/coverage.json",
+    "determinismReport": "public/baseweb-styles/reports/determinism.json",
+    "computedStyleVerification": "public/baseweb-styles/reports/computed-style-verification.json"
+  },
+  "totals": {
+    "componentsDiscovered": 80,
+    "captures": 140,
+    "errors": 42,
+    "tokenCount": 2236
+  }
+}

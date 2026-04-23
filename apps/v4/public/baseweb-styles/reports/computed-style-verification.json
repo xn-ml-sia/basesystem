@@ -1,0 +1,946 @@
+{
+  "generatedAt": "2026-04-23T09:36:55.165Z",
+  "baseUrl": "http://localhost:4000",
+  "status": "ok",
+  "comparedComponents": 10,
+  "entries": [
+    {
+      "baseweb": "accordion",
+      "shadcn": "accordion",
+      "matchedProperties": [
+        "position",
+        "paddingTop",
+        "paddingRight",
+        "paddingLeft",
+        "marginTop",
+        "marginRight",
+        "marginBottom",
+        "marginLeft",
+        "borderTopWidth",
+        "borderRightWidth",
+        "borderBottomWidth",
+        "borderLeftWidth",
+        "backgroundColor",
+        "color",
+        "letterSpacing",
+        "boxShadow",
+        "opacity"
+      ],
+      "mismatchedProperties": [
+        {
+          "property": "display",
+          "basewebValue": "block",
+          "shadcnValue": "flex"
+        },
+        {
+          "property": "boxSizing",
+          "basewebValue": "content-box",
+          "shadcnValue": "border-box"
+        },
+        {
+          "property": "width",
+          "basewebValue": "1264px",
+          "shadcnValue": "16px"
+        },
+        {
+          "property": "height",
+          "basewebValue": "18.5px",
+          "shadcnValue": "16px"
+        },
+        {
+          "property": "paddingBottom",
+          "basewebValue": "0px",
+          "shadcnValue": "16px"
+        },
+        {
+          "property": "borderTopStyle",
+          "basewebValue": "none",
+          "shadcnValue": "solid"
+        },
+        {
+          "property": "borderTopColor",
+          "basewebValue": "rgb(0, 0, 0)",
+          "shadcnValue": "rgb(229, 231, 235)"
+        },
+        {
+          "property": "borderRadius",
+          "basewebValue": "0px",
+          "shadcnValue": "6px"
+        },
+        {
+          "property": "fontSize",
+          "basewebValue": "16px",
+          "shadcnValue": "14px"
+        },
+        {
+          "property": "fontWeight",
+          "basewebValue": "400",
+          "shadcnValue": "500"
+        },
+        {
+          "property": "lineHeight",
+          "basewebValue": "normal",
+          "shadcnValue": "20px"
+        }
+      ],
+      "unavailableProperties": []
+    },
+    {
+      "baseweb": "avatar",
+      "shadcn": "avatar",
+      "matchedProperties": [
+        "boxSizing",
+        "paddingTop",
+        "paddingRight",
+        "paddingBottom",
+        "paddingLeft",
+        "marginTop",
+        "marginRight",
+        "marginBottom",
+        "marginLeft",
+        "borderTopWidth",
+        "borderRightWidth",
+        "borderBottomWidth",
+        "borderLeftWidth",
+        "fontWeight",
+        "letterSpacing",
+        "opacity"
+      ],
+      "mismatchedProperties": [
+        {
+          "property": "display",
+          "basewebValue": "inline-block",
+          "shadcnValue": "inline-flex"
+        },
+        {
+          "property": "position",
+          "basewebValue": "static",
+          "shadcnValue": "relative"
+        },
+        {
+          "property": "width",
+          "basewebValue": "40px",
+          "shadcnValue": "1280px"
+        },
+        {
+          "property": "height",
+          "basewebValue": "40px",
+          "shadcnValue": "1280px"
+        },
+        {
+          "property": "borderTopStyle",
+          "basewebValue": "none",
+          "shadcnValue": "solid"
+        },
+        {
+          "property": "borderTopColor",
+          "basewebValue": "rgb(255, 255, 255)",
+          "shadcnValue": "rgb(229, 231, 235)"
+        },
+        {
+          "property": "borderRadius",
+          "basewebValue": "50%",
+          "shadcnValue": "9999px"
+        },
+        {
+          "property": "backgroundColor",
+          "basewebValue": "rgb(0, 0, 0)",
+          "shadcnValue": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "property": "color",
+          "basewebValue": "rgb(255, 255, 255)",
+          "shadcnValue": "rgb(0, 0, 0)"
+        },
+        {
+          "property": "fontSize",
+          "basewebValue": "16px",
+          "shadcnValue": "14px"
+        },
+        {
+          "property": "lineHeight",
+          "basewebValue": "24px",
+          "shadcnValue": "20px"
+        },
+        {
+          "property": "boxShadow",
+          "basewebValue": "none",
+          "shadcnValue": "rgb(255, 255, 255) 0px 0px 0px 0px, rgba(59, 130, 246, 0.5) 0px 0px 0px 2px, rgba(0, 0, 0, 0) 0px 0px 0px 0px"
+        }
+      ],
+      "unavailableProperties": []
+    },
+    {
+      "baseweb": "badge",
+      "shadcn": "badge",
+      "matchedProperties": [
+        "display",
+        "position",
+        "boxSizing",
+        "marginTop",
+        "marginRight",
+        "marginBottom",
+        "marginLeft",
+        "color",
+        "lineHeight",
+        "boxShadow",
+        "opacity"
+      ],
+      "mismatchedProperties": [
+        {
+          "property": "width",
+          "basewebValue": "46.6719px",
+          "shadcnValue": "55.6406px"
+        },
+        {
+          "property": "height",
+          "basewebValue": "20px",
+          "shadcnValue": "26px"
+        },
+        {
+          "property": "paddingTop",
+          "basewebValue": "0px",
+          "shadcnValue": "4px"
+        },
+        {
+          "property": "paddingRight",
+          "basewebValue": "4px",
+          "shadcnValue": "10px"
+        },
+        {
+          "property": "paddingBottom",
+          "basewebValue": "0px",
+          "shadcnValue": "4px"
+        },
+        {
+          "property": "paddingLeft",
+          "basewebValue": "4px",
+          "shadcnValue": "10px"
+        },
+        {
+          "property": "borderTopWidth",
+          "basewebValue": "0px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderRightWidth",
+          "basewebValue": "0px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderBottomWidth",
+          "basewebValue": "0px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderLeftWidth",
+          "basewebValue": "0px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderTopStyle",
+          "basewebValue": "none",
+          "shadcnValue": "solid"
+        },
+        {
+          "property": "borderTopColor",
+          "basewebValue": "rgb(255, 255, 255)",
+          "shadcnValue": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "property": "borderRadius",
+          "basewebValue": "4px",
+          "shadcnValue": "9999px"
+        },
+        {
+          "property": "backgroundColor",
+          "basewebValue": "rgb(39, 110, 241)",
+          "shadcnValue": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "property": "fontSize",
+          "basewebValue": "14px",
+          "shadcnValue": "12px"
+        },
+        {
+          "property": "fontWeight",
+          "basewebValue": "500",
+          "shadcnValue": "400"
+        },
+        {
+          "property": "letterSpacing",
+          "basewebValue": "normal",
+          "shadcnValue": "0.12px"
+        }
+      ],
+      "unavailableProperties": []
+    },
+    {
+      "baseweb": "card",
+      "shadcn": "card",
+      "matchedProperties": [
+        "position",
+        "paddingTop",
+        "paddingBottom",
+        "borderTopStyle",
+        "color",
+        "boxShadow",
+        "opacity"
+      ],
+      "mismatchedProperties": [
+        {
+          "property": "display",
+          "basewebValue": "block",
+          "shadcnValue": "grid"
+        },
+        {
+          "property": "boxSizing",
+          "basewebValue": "content-box",
+          "shadcnValue": "border-box"
+        },
+        {
+          "property": "width",
+          "basewebValue": "1228px",
+          "shadcnValue": "95.375px"
+        },
+        {
+          "property": "height",
+          "basewebValue": "24px",
+          "shadcnValue": "27.5px"
+        },
+        {
+          "property": "paddingRight",
+          "basewebValue": "0px",
+          "shadcnValue": "28px"
+        },
+        {
+          "property": "paddingLeft",
+          "basewebValue": "0px",
+          "shadcnValue": "28px"
+        },
+        {
+          "property": "marginTop",
+          "basewebValue": "16px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "marginRight",
+          "basewebValue": "16px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "marginBottom",
+          "basewebValue": "16px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "marginLeft",
+          "basewebValue": "16px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "borderTopWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "borderRightWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "borderBottomWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "borderLeftWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "borderTopColor",
+          "basewebValue": "rgb(243, 243, 243)",
+          "shadcnValue": "rgb(229, 231, 235)"
+        },
+        {
+          "property": "borderRadius",
+          "basewebValue": "12px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "backgroundColor",
+          "basewebValue": "rgb(255, 255, 255)",
+          "shadcnValue": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "property": "fontSize",
+          "basewebValue": "16px",
+          "shadcnValue": "14px"
+        },
+        {
+          "property": "fontWeight",
+          "basewebValue": "400",
+          "shadcnValue": "500"
+        },
+        {
+          "property": "lineHeight",
+          "basewebValue": "24px",
+          "shadcnValue": "17.5px"
+        },
+        {
+          "property": "letterSpacing",
+          "basewebValue": "normal",
+          "shadcnValue": "0.14px"
+        }
+      ],
+      "unavailableProperties": []
+    },
+    {
+      "baseweb": "checkbox",
+      "shadcn": "checkbox",
+      "matchedProperties": [
+        "boxSizing",
+        "paddingTop",
+        "paddingRight",
+        "paddingBottom",
+        "paddingLeft",
+        "borderTopStyle",
+        "color",
+        "fontSize",
+        "lineHeight",
+        "letterSpacing",
+        "boxShadow"
+      ],
+      "mismatchedProperties": [
+        {
+          "property": "display",
+          "basewebValue": "block",
+          "shadcnValue": "grid"
+        },
+        {
+          "property": "position",
+          "basewebValue": "absolute",
+          "shadcnValue": "static"
+        },
+        {
+          "property": "width",
+          "basewebValue": "20px",
+          "shadcnValue": "16px"
+        },
+        {
+          "property": "height",
+          "basewebValue": "20px",
+          "shadcnValue": "16px"
+        },
+        {
+          "property": "marginTop",
+          "basewebValue": "2px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "marginRight",
+          "basewebValue": "2px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "marginBottom",
+          "basewebValue": "2px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "marginLeft",
+          "basewebValue": "2px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "borderTopWidth",
+          "basewebValue": "3px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderRightWidth",
+          "basewebValue": "3px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderBottomWidth",
+          "basewebValue": "3px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderLeftWidth",
+          "basewebValue": "3px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderTopColor",
+          "basewebValue": "rgb(94, 94, 94)",
+          "shadcnValue": "rgb(229, 231, 235)"
+        },
+        {
+          "property": "borderRadius",
+          "basewebValue": "0px",
+          "shadcnValue": "4px"
+        },
+        {
+          "property": "backgroundColor",
+          "basewebValue": "rgb(255, 255, 255)",
+          "shadcnValue": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "property": "fontWeight",
+          "basewebValue": "500",
+          "shadcnValue": "400"
+        },
+        {
+          "property": "opacity",
+          "basewebValue": "0",
+          "shadcnValue": "1"
+        }
+      ],
+      "unavailableProperties": []
+    },
+    {
+      "baseweb": "select",
+      "shadcn": "select",
+      "matchedProperties": [
+        "display",
+        "boxSizing",
+        "borderTopWidth",
+        "borderRightWidth",
+        "borderBottomWidth",
+        "borderLeftWidth",
+        "backgroundColor",
+        "color",
+        "fontWeight",
+        "letterSpacing",
+        "boxShadow"
+      ],
+      "mismatchedProperties": [
+        {
+          "property": "position",
+          "basewebValue": "relative",
+          "shadcnValue": "absolute"
+        },
+        {
+          "property": "width",
+          "basewebValue": "22px",
+          "shadcnValue": "16px"
+        },
+        {
+          "property": "height",
+          "basewebValue": "20px",
+          "shadcnValue": "12px"
+        },
+        {
+          "property": "paddingTop",
+          "basewebValue": "10px",
+          "shadcnValue": "6px"
+        },
+        {
+          "property": "paddingRight",
+          "basewebValue": "12px",
+          "shadcnValue": "8px"
+        },
+        {
+          "property": "paddingBottom",
+          "basewebValue": "10px",
+          "shadcnValue": "6px"
+        },
+        {
+          "property": "paddingLeft",
+          "basewebValue": "10px",
+          "shadcnValue": "8px"
+        },
+        {
+          "property": "marginTop",
+          "basewebValue": "0px",
+          "shadcnValue": "4px"
+        },
+        {
+          "property": "marginRight",
+          "basewebValue": "0px",
+          "shadcnValue": "-4px"
+        },
+        {
+          "property": "marginBottom",
+          "basewebValue": "0px",
+          "shadcnValue": "4px"
+        },
+        {
+          "property": "marginLeft",
+          "basewebValue": "0px",
+          "shadcnValue": "-4px"
+        },
+        {
+          "property": "borderTopStyle",
+          "basewebValue": "none",
+          "shadcnValue": "solid"
+        },
+        {
+          "property": "borderTopColor",
+          "basewebValue": "rgb(41, 41, 41)",
+          "shadcnValue": "rgb(229, 231, 235)"
+        },
+        {
+          "property": "borderRadius",
+          "basewebValue": "8px",
+          "shadcnValue": "0px"
+        },
+        {
+          "property": "fontSize",
+          "basewebValue": "16px",
+          "shadcnValue": "12px"
+        },
+        {
+          "property": "lineHeight",
+          "basewebValue": "24px",
+          "shadcnValue": "16px"
+        },
+        {
+          "property": "opacity",
+          "basewebValue": "1",
+          "shadcnValue": "0.5"
+        }
+      ],
+      "unavailableProperties": []
+    },
+    {
+      "baseweb": "skeleton",
+      "shadcn": "skeleton",
+      "matchedProperties": [
+        "display",
+        "position",
+        "paddingTop",
+        "paddingRight",
+        "paddingBottom",
+        "paddingLeft",
+        "marginTop",
+        "marginRight",
+        "marginBottom",
+        "marginLeft",
+        "borderTopWidth",
+        "borderRightWidth",
+        "borderBottomWidth",
+        "borderLeftWidth",
+        "color",
+        "fontSize",
+        "fontWeight",
+        "letterSpacing",
+        "boxShadow"
+      ],
+      "mismatchedProperties": [
+        {
+          "property": "boxSizing",
+          "basewebValue": "content-box",
+          "shadcnValue": "border-box"
+        },
+        {
+          "property": "width",
+          "basewebValue": "1264px",
+          "shadcnValue": "1280px"
+        },
+        {
+          "property": "height",
+          "basewebValue": "18.5px",
+          "shadcnValue": "24px"
+        },
+        {
+          "property": "borderTopStyle",
+          "basewebValue": "none",
+          "shadcnValue": "solid"
+        },
+        {
+          "property": "borderTopColor",
+          "basewebValue": "rgb(0, 0, 0)",
+          "shadcnValue": "rgb(229, 231, 235)"
+        },
+        {
+          "property": "borderRadius",
+          "basewebValue": "0px",
+          "shadcnValue": "6px"
+        },
+        {
+          "property": "backgroundColor",
+          "basewebValue": "rgb(232, 232, 232)",
+          "shadcnValue": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "property": "lineHeight",
+          "basewebValue": "normal",
+          "shadcnValue": "24px"
+        },
+        {
+          "property": "opacity",
+          "basewebValue": "1",
+          "shadcnValue": "0.688772"
+        }
+      ],
+      "unavailableProperties": []
+    },
+    {
+      "baseweb": "switch",
+      "shadcn": "switch",
+      "matchedProperties": [
+        "boxSizing",
+        "paddingTop",
+        "paddingRight",
+        "paddingBottom",
+        "paddingLeft",
+        "marginTop",
+        "marginRight",
+        "marginBottom",
+        "marginLeft",
+        "borderTopStyle",
+        "color",
+        "fontSize",
+        "fontWeight",
+        "letterSpacing",
+        "boxShadow"
+      ],
+      "mismatchedProperties": [
+        {
+          "property": "display",
+          "basewebValue": "flex",
+          "shadcnValue": "inline-flex"
+        },
+        {
+          "property": "position",
+          "basewebValue": "absolute",
+          "shadcnValue": "static"
+        },
+        {
+          "property": "width",
+          "basewebValue": "4px",
+          "shadcnValue": "44.4844px"
+        },
+        {
+          "property": "height",
+          "basewebValue": "4px",
+          "shadcnValue": "26px"
+        },
+        {
+          "property": "borderTopWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderRightWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderBottomWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderLeftWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderTopColor",
+          "basewebValue": "rgb(94, 94, 94)",
+          "shadcnValue": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "property": "borderRadius",
+          "basewebValue": "999px",
+          "shadcnValue": "9999px"
+        },
+        {
+          "property": "backgroundColor",
+          "basewebValue": "rgb(232, 232, 232)",
+          "shadcnValue": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "property": "lineHeight",
+          "basewebValue": "normal",
+          "shadcnValue": "24px"
+        },
+        {
+          "property": "opacity",
+          "basewebValue": "0",
+          "shadcnValue": "1"
+        }
+      ],
+      "unavailableProperties": []
+    },
+    {
+      "baseweb": "tabs",
+      "shadcn": "tabs",
+      "matchedProperties": [
+        "position",
+        "marginTop",
+        "marginRight",
+        "marginBottom",
+        "marginLeft",
+        "borderTopWidth",
+        "borderRightWidth",
+        "borderBottomWidth",
+        "borderLeftWidth",
+        "color",
+        "fontSize",
+        "fontWeight",
+        "letterSpacing",
+        "boxShadow",
+        "opacity"
+      ],
+      "mismatchedProperties": [
+        {
+          "property": "display",
+          "basewebValue": "flex",
+          "shadcnValue": "inline-flex"
+        },
+        {
+          "property": "boxSizing",
+          "basewebValue": "content-box",
+          "shadcnValue": "border-box"
+        },
+        {
+          "property": "width",
+          "basewebValue": "1244px",
+          "shadcnValue": "48.4844px"
+        },
+        {
+          "property": "height",
+          "basewebValue": "18.5px",
+          "shadcnValue": "30px"
+        },
+        {
+          "property": "paddingTop",
+          "basewebValue": "0px",
+          "shadcnValue": "3px"
+        },
+        {
+          "property": "paddingRight",
+          "basewebValue": "10px",
+          "shadcnValue": "3px"
+        },
+        {
+          "property": "paddingBottom",
+          "basewebValue": "0px",
+          "shadcnValue": "3px"
+        },
+        {
+          "property": "paddingLeft",
+          "basewebValue": "10px",
+          "shadcnValue": "3px"
+        },
+        {
+          "property": "borderTopStyle",
+          "basewebValue": "none",
+          "shadcnValue": "solid"
+        },
+        {
+          "property": "borderTopColor",
+          "basewebValue": "rgb(0, 0, 0)",
+          "shadcnValue": "rgb(229, 231, 235)"
+        },
+        {
+          "property": "borderRadius",
+          "basewebValue": "0px",
+          "shadcnValue": "8px"
+        },
+        {
+          "property": "backgroundColor",
+          "basewebValue": "rgb(255, 255, 255)",
+          "shadcnValue": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "property": "lineHeight",
+          "basewebValue": "normal",
+          "shadcnValue": "24px"
+        }
+      ],
+      "unavailableProperties": []
+    },
+    {
+      "baseweb": "textarea",
+      "shadcn": "textarea",
+      "matchedProperties": [
+        "display",
+        "position",
+        "boxSizing",
+        "paddingTop",
+        "paddingBottom",
+        "marginTop",
+        "marginRight",
+        "marginBottom",
+        "marginLeft",
+        "borderTopStyle",
+        "borderRadius",
+        "color",
+        "fontWeight",
+        "letterSpacing",
+        "boxShadow",
+        "opacity"
+      ],
+      "mismatchedProperties": [
+        {
+          "property": "width",
+          "basewebValue": "1264px",
+          "shadcnValue": "1280px"
+        },
+        {
+          "property": "height",
+          "basewebValue": "48px",
+          "shadcnValue": "96px"
+        },
+        {
+          "property": "paddingRight",
+          "basewebValue": "0px",
+          "shadcnValue": "14px"
+        },
+        {
+          "property": "paddingLeft",
+          "basewebValue": "0px",
+          "shadcnValue": "14px"
+        },
+        {
+          "property": "borderTopWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderRightWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderBottomWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderLeftWidth",
+          "basewebValue": "2px",
+          "shadcnValue": "1px"
+        },
+        {
+          "property": "borderTopColor",
+          "basewebValue": "rgb(243, 243, 243)",
+          "shadcnValue": "rgb(229, 231, 235)"
+        },
+        {
+          "property": "backgroundColor",
+          "basewebValue": "rgb(243, 243, 243)",
+          "shadcnValue": "rgba(0, 0, 0, 0)"
+        },
+        {
+          "property": "fontSize",
+          "basewebValue": "16px",
+          "shadcnValue": "14px"
+        },
+        {
+          "property": "lineHeight",
+          "basewebValue": "24px",
+          "shadcnValue": "20px"
+        }
+      ],
+      "unavailableProperties": []
+    }
+  ]
+}

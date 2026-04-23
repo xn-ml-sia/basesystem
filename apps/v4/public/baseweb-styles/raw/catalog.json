@@ -1,0 +1,2233 @@
+[
+  {
+    "name": "accordion",
+    "sourcePath": "src/accordion",
+    "examplePaths": [
+      "documentation-site/examples/accordion/basic.tsx",
+      "documentation-site/examples/accordion/custom.tsx",
+      "documentation-site/examples/accordion/renderpanelcontent.tsx",
+      "documentation-site/examples/accordion/stateful-panel.tsx",
+      "documentation-site/examples/accordion/stateless.tsx",
+      "documentation-site/examples/accordion/title.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "app-nav-bar",
+    "sourcePath": "src/app-nav-bar",
+    "examplePaths": [
+      "documentation-site/examples/app-nav-bar/basic.tsx",
+      "documentation-site/examples/app-nav-bar/map-item-to-node.tsx",
+      "documentation-site/examples/app-nav-bar/unique-identifier.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "aspect-ratio-box",
+    "sourcePath": "src/aspect-ratio-box",
+    "examplePaths": [
+      "documentation-site/examples/aspect-ratio-box/basic.tsx",
+      "documentation-site/examples/aspect-ratio-box/calendar.tsx",
+      "documentation-site/examples/aspect-ratio-box/image.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "avatar",
+    "sourcePath": "src/avatar",
+    "examplePaths": [
+      "documentation-site/examples/avatar/error.tsx",
+      "documentation-site/examples/avatar/initials.tsx",
+      "documentation-site/examples/avatar/override.tsx",
+      "documentation-site/examples/avatar/sizes.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "badge",
+    "sourcePath": "src/badge",
+    "examplePaths": [
+      "documentation-site/examples/badge/offset.tsx",
+      "documentation-site/examples/badge/primary-inline.tsx",
+      "documentation-site/examples/badge/secondary-inline.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "banner",
+    "sourcePath": "src/banner",
+    "examplePaths": [
+      "documentation-site/examples/banner/action.tsx",
+      "documentation-site/examples/banner/artwork.tsx",
+      "documentation-site/examples/banner/variants.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "block",
+    "sourcePath": "src/block",
+    "examplePaths": [
+      "documentation-site/examples/block/basic.tsx",
+      "documentation-site/examples/block/override.tsx",
+      "documentation-site/examples/block/responsive.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "bottom-navigation",
+    "sourcePath": "src/bottom-navigation",
+    "examplePaths": [
+      "documentation-site/examples/bottom-navigation/overflow.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "breadcrumbs",
+    "sourcePath": "src/breadcrumbs",
+    "examplePaths": [
+      "documentation-site/examples/breadcrumbs/basic.tsx",
+      "documentation-site/examples/breadcrumbs/pseudo.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "button",
+    "sourcePath": "src/button",
+    "examplePaths": [
+      "documentation-site/examples/button/as-an-anchor.tsx",
+      "documentation-site/examples/button/backgroundSafe.tsx",
+      "documentation-site/examples/button/basic.tsx",
+      "documentation-site/examples/button/dropdown.tsx",
+      "documentation-site/examples/button/kinds.tsx",
+      "documentation-site/examples/button/shapes.tsx",
+      "documentation-site/examples/button/sizes.tsx",
+      "documentation-site/examples/button/states.tsx",
+      "documentation-site/examples/button/widthTypes.tsx",
+      "documentation-site/examples/button/with-enhancers.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "button-dock",
+    "sourcePath": "src/button-dock",
+    "examplePaths": [
+      "documentation-site/examples/button-dock/basic.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "button-group",
+    "sourcePath": "src/button-group",
+    "examplePaths": [
+      "documentation-site/examples/button-group/basic.tsx",
+      "documentation-site/examples/button-group/checkbox-mode.tsx",
+      "documentation-site/examples/button-group/controlled.tsx",
+      "documentation-site/examples/button-group/disabled-button.tsx",
+      "documentation-site/examples/button-group/disabled.tsx",
+      "documentation-site/examples/button-group/dropdown.tsx",
+      "documentation-site/examples/button-group/enhancer.tsx",
+      "documentation-site/examples/button-group/icon.tsx",
+      "documentation-site/examples/button-group/padding.tsx",
+      "documentation-site/examples/button-group/radio-mode.tsx",
+      "documentation-site/examples/button-group/scrollable.tsx",
+      "documentation-site/examples/button-group/stateful-checkbox.tsx",
+      "documentation-site/examples/button-group/stateful-radio.tsx",
+      "documentation-site/examples/button-group/wrappable.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "button-timed",
+    "sourcePath": "src/button-timed",
+    "examplePaths": [
+      "documentation-site/examples/button-timed/paused.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "card",
+    "sourcePath": "src/card",
+    "examplePaths": [
+      "documentation-site/examples/card/basic.tsx",
+      "documentation-site/examples/card/image-cta.tsx",
+      "documentation-site/examples/card/thumbnail-cta.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "checkbox",
+    "sourcePath": "src/checkbox",
+    "examplePaths": [
+      "documentation-site/examples/checkbox/alignment.tsx",
+      "documentation-site/examples/checkbox/basic-controlled.tsx",
+      "documentation-site/examples/checkbox/basic-uncontrolled.tsx",
+      "documentation-site/examples/checkbox/component-overrides.tsx",
+      "documentation-site/examples/checkbox/disabled.tsx",
+      "documentation-site/examples/checkbox/error.tsx",
+      "documentation-site/examples/checkbox/focus.tsx",
+      "documentation-site/examples/checkbox/indeterminate.tsx",
+      "documentation-site/examples/checkbox/multiline.tsx",
+      "documentation-site/examples/checkbox/overrides.tsx",
+      "documentation-site/examples/checkbox/toggle.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "checkbox-v2",
+    "sourcePath": "src/checkbox-v2",
+    "examplePaths": [
+      "documentation-site/examples/checkbox-v2/alignment.tsx",
+      "documentation-site/examples/checkbox-v2/basic-controlled.tsx",
+      "documentation-site/examples/checkbox-v2/basic-uncontrolled.tsx",
+      "documentation-site/examples/checkbox-v2/component-overrides.tsx",
+      "documentation-site/examples/checkbox-v2/disabled.tsx",
+      "documentation-site/examples/checkbox-v2/error.tsx",
+      "documentation-site/examples/checkbox-v2/indeterminate.tsx",
+      "documentation-site/examples/checkbox-v2/multiline.tsx",
+      "documentation-site/examples/checkbox-v2/overrides.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "combobox",
+    "sourcePath": "src/combobox",
+    "examplePaths": [
+      "documentation-site/examples/combobox/async-options.tsx",
+      "documentation-site/examples/combobox/filtered-options.tsx",
+      "documentation-site/examples/combobox/focus.tsx",
+      "documentation-site/examples/combobox/input-overrides.tsx",
+      "documentation-site/examples/combobox/replacement-node.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "data-table",
+    "sourcePath": "src/data-table",
+    "examplePaths": [
+      "documentation-site/examples/data-table/access-table-data.tsx",
+      "documentation-site/examples/data-table/basic.tsx",
+      "documentation-site/examples/data-table/batch-action.tsx",
+      "documentation-site/examples/data-table/customized-column-sort.tsx",
+      "documentation-site/examples/data-table/customized-empty-state.tsx",
+      "documentation-site/examples/data-table/row-height-line-clamp.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "datepicker",
+    "sourcePath": "src/datepicker",
+    "examplePaths": [
+      "documentation-site/examples/datepicker/basic.tsx",
+      "documentation-site/examples/datepicker/calendar-multiple-months-with-label.tsx",
+      "documentation-site/examples/datepicker/calendar-multiple-months.tsx",
+      "documentation-site/examples/datepicker/calendar-time-select.tsx",
+      "documentation-site/examples/datepicker/composed-range-pickers.tsx",
+      "documentation-site/examples/datepicker/composed-single-pickers.tsx",
+      "documentation-site/examples/datepicker/datepicker-with-timezone.tsx",
+      "documentation-site/examples/datepicker/datepickers-color-states.tsx",
+      "documentation-site/examples/datepicker/i18n.tsx",
+      "documentation-site/examples/datepicker/in-popover.tsx",
+      "documentation-site/examples/datepicker/nested-override.tsx",
+      "documentation-site/examples/datepicker/null-mask.tsx",
+      "documentation-site/examples/datepicker/quick-select.tsx",
+      "documentation-site/examples/datepicker/range-picker-with-separate-inputs.tsx",
+      "documentation-site/examples/datepicker/with-callback-overrides.tsx",
+      "documentation-site/examples/datepicker/with-mask.tsx",
+      "documentation-site/examples/datepicker/with-overrides.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "dialog",
+    "sourcePath": "src/dialog",
+    "examplePaths": [
+      "documentation-site/examples/dialog/with-background-image.tsx",
+      "documentation-site/examples/dialog/without-overlay.tsx"
+    ],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "divider",
+    "sourcePath": "src/divider",
+    "examplePaths": [
+      "documentation-site/examples/divider/basic.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "dnd-list",
+    "sourcePath": "src/dnd-list",
+    "examplePaths": [
+      "documentation-site/examples/dnd-list/basic.tsx",
+      "documentation-site/examples/dnd-list/customDragHandle.tsx",
+      "documentation-site/examples/dnd-list/overrideLabel.tsx",
+      "documentation-site/examples/dnd-list/overrides_short.tsx",
+      "documentation-site/examples/dnd-list/overrides_state_props.tsx",
+      "documentation-site/examples/dnd-list/overrides_style.tsx",
+      "documentation-site/examples/dnd-list/overrides_whole_subcomponent.tsx",
+      "documentation-site/examples/dnd-list/removable.tsx",
+      "documentation-site/examples/dnd-list/stateless.tsx",
+      "documentation-site/examples/dnd-list/varyingHeights.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "drawer",
+    "sourcePath": "src/drawer",
+    "examplePaths": [
+      "documentation-site/examples/drawer/anchors.tsx",
+      "documentation-site/examples/drawer/sizes.tsx",
+      "documentation-site/examples/drawer/ssr-render-all.tsx"
+    ],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "file-uploader",
+    "sourcePath": "src/file-uploader",
+    "examplePaths": [
+      "documentation-site/examples/file-uploader/basic.tsx",
+      "documentation-site/examples/file-uploader/dynamic-loading.tsx",
+      "documentation-site/examples/file-uploader/item-preview.tsx",
+      "documentation-site/examples/file-uploader/label-hint.tsx",
+      "documentation-site/examples/file-uploader/overrides.tsx",
+      "documentation-site/examples/file-uploader/upload-restrictions.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "file-uploader-basic",
+    "sourcePath": "src/file-uploader-basic",
+    "examplePaths": [
+      "documentation-site/examples/file-uploader-basic/_overrides_component.tsx",
+      "documentation-site/examples/file-uploader-basic/basic.tsx",
+      "documentation-site/examples/file-uploader-basic/disabled.tsx",
+      "documentation-site/examples/file-uploader-basic/error.tsx",
+      "documentation-site/examples/file-uploader-basic/indeterminate-progress.tsx",
+      "documentation-site/examples/file-uploader-basic/overrides.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "flex-grid",
+    "sourcePath": "src/flex-grid",
+    "examplePaths": [
+      "documentation-site/examples/flex-grid/basic.tsx",
+      "documentation-site/examples/flex-grid/missing.tsx",
+      "documentation-site/examples/flex-grid/responsive.tsx",
+      "documentation-site/examples/flex-grid/unequal-narrow.tsx",
+      "documentation-site/examples/flex-grid/unequal-wide.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "form-control",
+    "sourcePath": "src/form-control",
+    "examplePaths": [
+      "documentation-site/examples/form-control/checkbox.tsx",
+      "documentation-site/examples/form-control/input.tsx",
+      "documentation-site/examples/form-control/kinds.tsx",
+      "documentation-site/examples/form-control/radio-group.tsx",
+      "documentation-site/examples/form-control/select.tsx",
+      "documentation-site/examples/form-control/textarea.tsx",
+      "documentation-site/examples/form-control/validation.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "header-navigation",
+    "sourcePath": "src/header-navigation",
+    "examplePaths": [
+      "documentation-site/examples/header-navigation/basic.tsx",
+      "documentation-site/examples/header-navigation/with-search.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "heading",
+    "sourcePath": "src/heading",
+    "examplePaths": [
+      "documentation-site/examples/heading/basic.tsx",
+      "documentation-site/examples/heading/decouple-styles.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "icon",
+    "sourcePath": "src/icon",
+    "examplePaths": [
+      "documentation-site/examples/icon/basic.tsx",
+      "documentation-site/examples/icon/button.tsx",
+      "documentation-site/examples/icon/list.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "input",
+    "sourcePath": "src/input",
+    "examplePaths": [
+      "documentation-site/examples/input/available-states.tsx",
+      "documentation-site/examples/input/basic-controlled.tsx",
+      "documentation-site/examples/input/basic-uncontrolled.tsx",
+      "documentation-site/examples/input/clearable.tsx",
+      "documentation-site/examples/input/enhancers.tsx",
+      "documentation-site/examples/input/focus.tsx",
+      "documentation-site/examples/input/mask.tsx",
+      "documentation-site/examples/input/overrides.tsx",
+      "documentation-site/examples/input/password.tsx",
+      "documentation-site/examples/input/sizes.tsx",
+      "documentation-site/examples/input/with-select.tsx",
+      "documentation-site/examples/input/with-tags.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "layer",
+    "sourcePath": "src/layer",
+    "examplePaths": [
+      "documentation-site/examples/layer/basic-tether.tsx",
+      "documentation-site/examples/layer/basic.tsx",
+      "documentation-site/examples/layer/layer-z-index.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "layout",
+    "sourcePath": "src/layout",
+    "examplePaths": [],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "layout-grid",
+    "sourcePath": "src/layout-grid",
+    "examplePaths": [
+      "documentation-site/examples/layout-grid/align.tsx",
+      "documentation-site/examples/layout-grid/basic.tsx",
+      "documentation-site/examples/layout-grid/behavior.tsx",
+      "documentation-site/examples/layout-grid/compact.tsx",
+      "documentation-site/examples/layout-grid/custom.tsx",
+      "documentation-site/examples/layout-grid/hide.tsx",
+      "documentation-site/examples/layout-grid/order.tsx",
+      "documentation-site/examples/layout-grid/overrides.tsx",
+      "documentation-site/examples/layout-grid/responsive.tsx",
+      "documentation-site/examples/layout-grid/skip-shrink.tsx",
+      "documentation-site/examples/layout-grid/skip.tsx",
+      "documentation-site/examples/layout-grid/span.tsx",
+      "documentation-site/examples/layout-grid/unit.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "link",
+    "sourcePath": "src/link",
+    "examplePaths": [],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "list",
+    "sourcePath": "src/list",
+    "examplePaths": [
+      "documentation-site/examples/list/artwork-sizes.tsx",
+      "documentation-site/examples/list/basic.tsx",
+      "documentation-site/examples/list/enhancers.tsx",
+      "documentation-site/examples/list/menu-adapter.tsx",
+      "documentation-site/examples/list/sublist.tsx",
+      "documentation-site/examples/list/tap-target.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "map-marker",
+    "sourcePath": "src/map-marker",
+    "examplePaths": [],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "menu",
+    "sourcePath": "src/menu",
+    "examplePaths": [
+      "documentation-site/examples/menu/basic.tsx",
+      "documentation-site/examples/menu/child-render-all.tsx",
+      "documentation-site/examples/menu/child.tsx",
+      "documentation-site/examples/menu/compact.tsx",
+      "documentation-site/examples/menu/dividers.tsx",
+      "documentation-site/examples/menu/grouped.tsx",
+      "documentation-site/examples/menu/href.tsx",
+      "documentation-site/examples/menu/profile.tsx",
+      "documentation-site/examples/menu/stateless.tsx",
+      "documentation-site/examples/menu/virtual-list.tsx"
+    ],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "message-card",
+    "sourcePath": "src/message-card",
+    "examplePaths": [
+      "documentation-site/examples/message-card/color.tsx",
+      "documentation-site/examples/message-card/custom-color.tsx",
+      "documentation-site/examples/message-card/layout.tsx",
+      "documentation-site/examples/message-card/positioning.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "mobile-header",
+    "sourcePath": "src/mobile-header",
+    "examplePaths": [
+      "documentation-site/examples/mobile-header/floating.tsx",
+      "documentation-site/examples/mobile-header/text-content.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "modal",
+    "sourcePath": "src/modal",
+    "examplePaths": [
+      "documentation-site/examples/modal/autofocus.tsx",
+      "documentation-site/examples/modal/basic.tsx",
+      "documentation-site/examples/modal/buried-interactive-element.tsx",
+      "documentation-site/examples/modal/nested.tsx",
+      "documentation-site/examples/modal/sized.tsx"
+    ],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "notification",
+    "sourcePath": "src/notification",
+    "examplePaths": [
+      "documentation-site/examples/notification/basic.tsx",
+      "documentation-site/examples/notification/closeable.tsx",
+      "documentation-site/examples/notification/custom-dismiss.tsx",
+      "documentation-site/examples/notification/full-width.tsx",
+      "documentation-site/examples/notification/kinds.tsx",
+      "documentation-site/examples/notification/overrides.tsx"
+    ],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "page-control",
+    "sourcePath": "src/page-control",
+    "examplePaths": [
+      "documentation-site/examples/page-control/overflow.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "pagination",
+    "sourcePath": "src/pagination",
+    "examplePaths": [
+      "documentation-site/examples/pagination/controlled.tsx",
+      "documentation-site/examples/pagination/labels.tsx",
+      "documentation-site/examples/pagination/overrides.tsx",
+      "documentation-site/examples/pagination/uncontrolled.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "payment-card",
+    "sourcePath": "src/payment-card",
+    "examplePaths": [
+      "documentation-site/examples/payment-card/controlled.tsx",
+      "documentation-site/examples/payment-card/defaultvalue.tsx",
+      "documentation-site/examples/payment-card/form.tsx",
+      "documentation-site/examples/payment-card/uncontrolled.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "phone-input",
+    "sourcePath": "src/phone-input",
+    "examplePaths": [
+      "documentation-site/examples/phone-input/basic.tsx",
+      "documentation-site/examples/phone-input/flag-overrides.tsx",
+      "documentation-site/examples/phone-input/localized.tsx",
+      "documentation-site/examples/phone-input/nested-overrides.tsx",
+      "documentation-site/examples/phone-input/uncontrolled.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "pin-code",
+    "sourcePath": "src/pin-code",
+    "examplePaths": [
+      "documentation-site/examples/pin-code/autofocus.tsx",
+      "documentation-site/examples/pin-code/basic.tsx",
+      "documentation-site/examples/pin-code/completion.tsx",
+      "documentation-site/examples/pin-code/event.tsx",
+      "documentation-site/examples/pin-code/id-and-name.tsx",
+      "documentation-site/examples/pin-code/length.tsx",
+      "documentation-site/examples/pin-code/mask.tsx",
+      "documentation-site/examples/pin-code/no-tab.tsx",
+      "documentation-site/examples/pin-code/override.tsx",
+      "documentation-site/examples/pin-code/placeholder.tsx",
+      "documentation-site/examples/pin-code/size.tsx",
+      "documentation-site/examples/pin-code/stateful.tsx",
+      "documentation-site/examples/pin-code/states.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "popover",
+    "sourcePath": "src/popover",
+    "examplePaths": [
+      "documentation-site/examples/popover/clipping.tsx",
+      "documentation-site/examples/popover/dismiss.tsx",
+      "documentation-site/examples/popover/link.tsx",
+      "documentation-site/examples/popover/overrides.tsx",
+      "documentation-site/examples/popover/placements.tsx",
+      "documentation-site/examples/popover/ref-handling.tsx",
+      "documentation-site/examples/popover/ssr-render-all.tsx",
+      "documentation-site/examples/popover/stateful-click.tsx",
+      "documentation-site/examples/popover/stateful-hover.tsx",
+      "documentation-site/examples/popover/stateless.tsx",
+      "documentation-site/examples/popover/with-arrow.tsx"
+    ],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "progress-bar",
+    "sourcePath": "src/progress-bar",
+    "examplePaths": [
+      "documentation-site/examples/progress-bar/basic.tsx",
+      "documentation-site/examples/progress-bar/custom-label.tsx",
+      "documentation-site/examples/progress-bar/intent.tsx",
+      "documentation-site/examples/progress-bar/negative.tsx",
+      "documentation-site/examples/progress-bar/overrides.tsx",
+      "documentation-site/examples/progress-bar/rounded.tsx",
+      "documentation-site/examples/progress-bar/steps.tsx",
+      "documentation-site/examples/progress-bar/with-label.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "progress-steps",
+    "sourcePath": "src/progress-steps",
+    "examplePaths": [
+      "documentation-site/examples/progress-steps/dotted.tsx",
+      "documentation-site/examples/progress-steps/horizontal.tsx",
+      "documentation-site/examples/progress-steps/numbered.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "radio",
+    "sourcePath": "src/radio",
+    "examplePaths": [
+      "documentation-site/examples/radio/basic.tsx",
+      "documentation-site/examples/radio/disabled.tsx",
+      "documentation-site/examples/radio/error.tsx",
+      "documentation-site/examples/radio/horizontal-align.tsx",
+      "documentation-site/examples/radio/overrides.tsx",
+      "documentation-site/examples/radio/stateful.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "radio-v2",
+    "sourcePath": "src/radio-v2",
+    "examplePaths": [
+      "documentation-site/examples/radio-v2/basic.tsx",
+      "documentation-site/examples/radio-v2/disabled.tsx",
+      "documentation-site/examples/radio-v2/error.tsx",
+      "documentation-site/examples/radio-v2/horizontal-align.tsx",
+      "documentation-site/examples/radio-v2/overrides.tsx",
+      "documentation-site/examples/radio-v2/stateful.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "rating",
+    "sourcePath": "src/rating",
+    "examplePaths": [
+      "documentation-site/examples/rating/emoticon.tsx",
+      "documentation-site/examples/rating/star.tsx",
+      "documentation-site/examples/rating/starReadOnly.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "segmented-control",
+    "sourcePath": "src/segmented-control",
+    "examplePaths": [
+      "documentation-site/examples/segmented-control/badge-hint.tsx",
+      "documentation-site/examples/segmented-control/badge.tsx",
+      "documentation-site/examples/segmented-control/basic.tsx",
+      "documentation-site/examples/segmented-control/disabled.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "select",
+    "sourcePath": "src/select",
+    "examplePaths": [
+      "documentation-site/examples/select/async-options.tsx",
+      "documentation-site/examples/select/control-ref-dropdown.tsx",
+      "documentation-site/examples/select/control-ref-input-value.tsx",
+      "documentation-site/examples/select/controlled.tsx",
+      "documentation-site/examples/select/creatable-multi.tsx",
+      "documentation-site/examples/select/creatable.tsx",
+      "documentation-site/examples/select/focus.tsx",
+      "documentation-site/examples/select/grouped.tsx",
+      "documentation-site/examples/select/in-modal.tsx",
+      "documentation-site/examples/select/label.tsx",
+      "documentation-site/examples/select/native.tsx",
+      "documentation-site/examples/select/overridden-dropdown.tsx",
+      "documentation-site/examples/select/overridden-tag.tsx",
+      "documentation-site/examples/select/overridden.tsx",
+      "documentation-site/examples/select/search-multi-pick.tsx",
+      "documentation-site/examples/select/search-single-pick.tsx",
+      "documentation-site/examples/select/sizes.tsx",
+      "documentation-site/examples/select/uncontrolled.tsx",
+      "documentation-site/examples/select/with-many-options.tsx"
+    ],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "sheet",
+    "sourcePath": "src/sheet",
+    "examplePaths": [],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "side-navigation",
+    "sourcePath": "src/side-navigation",
+    "examplePaths": [
+      "documentation-site/examples/side-navigation/basic.tsx",
+      "documentation-site/examples/side-navigation/nav-overrides.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "skeleton",
+    "sourcePath": "src/skeleton",
+    "examplePaths": [
+      "documentation-site/examples/skeleton/animation.tsx",
+      "documentation-site/examples/skeleton/auto-size-rows.tsx",
+      "documentation-site/examples/skeleton/basic.tsx",
+      "documentation-site/examples/skeleton/circle.tsx",
+      "documentation-site/examples/skeleton/subElements.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "slider",
+    "sourcePath": "src/slider",
+    "examplePaths": [
+      "documentation-site/examples/slider/basic.tsx",
+      "documentation-site/examples/slider/custom-ticks.tsx",
+      "documentation-site/examples/slider/disabled.tsx",
+      "documentation-site/examples/slider/marks.tsx",
+      "documentation-site/examples/slider/overrides.tsx",
+      "documentation-site/examples/slider/range.tsx",
+      "documentation-site/examples/slider/stateful.tsx",
+      "documentation-site/examples/slider/step-min-max.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "snackbar",
+    "sourcePath": "src/snackbar",
+    "examplePaths": [
+      "documentation-site/examples/snackbar/action-button-usage.tsx",
+      "documentation-site/examples/snackbar/infinite-duration.tsx",
+      "documentation-site/examples/snackbar/line-lengths.tsx",
+      "documentation-site/examples/snackbar/placement.tsx"
+    ],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "spinner",
+    "sourcePath": "src/spinner",
+    "examplePaths": [
+      "documentation-site/examples/spinner/basic.tsx",
+      "documentation-site/examples/spinner/custom.tsx",
+      "documentation-site/examples/spinner/size.tsx",
+      "documentation-site/examples/spinner/span.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "stepper",
+    "sourcePath": "src/stepper",
+    "examplePaths": [],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "switch",
+    "sourcePath": "src/switch",
+    "examplePaths": [
+      "documentation-site/examples/switch/alignment.tsx",
+      "documentation-site/examples/switch/basic-controlled.tsx",
+      "documentation-site/examples/switch/basic-uncontrolled.tsx",
+      "documentation-site/examples/switch/disabled.tsx",
+      "documentation-site/examples/switch/multiline.tsx",
+      "documentation-site/examples/switch/overrides.tsx",
+      "documentation-site/examples/switch/showIcon.tsx",
+      "documentation-site/examples/switch/size.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "system-banner",
+    "sourcePath": "src/system-banner",
+    "examplePaths": [
+      "documentation-site/examples/system-banner/basic.tsx",
+      "documentation-site/examples/system-banner/clickable-banner.tsx",
+      "documentation-site/examples/system-banner/multiple-actions.tsx",
+      "documentation-site/examples/system-banner/with-actions.tsx",
+      "documentation-site/examples/system-banner/with-artwork.tsx",
+      "documentation-site/examples/system-banner/with-icons.tsx",
+      "documentation-site/examples/system-banner/with-style-overrides.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "table",
+    "sourcePath": "src/table",
+    "examplePaths": [
+      "documentation-site/examples/table/basic.tsx",
+      "documentation-site/examples/table/cells.tsx",
+      "documentation-site/examples/table/filter.tsx",
+      "documentation-site/examples/table/fixed-width-column.tsx",
+      "documentation-site/examples/table/graph.tsx",
+      "documentation-site/examples/table/horizontal-scroll.tsx",
+      "documentation-site/examples/table/pagination.tsx",
+      "documentation-site/examples/table/sortable.tsx",
+      "documentation-site/examples/table/vertical-scroll.tsx",
+      "documentation-site/examples/table/virtual-horizontal-scroll.tsx",
+      "documentation-site/examples/table/virtual.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "table-grid",
+    "sourcePath": "src/table-grid",
+    "examplePaths": [
+      "documentation-site/examples/table-grid/basic.tsx",
+      "documentation-site/examples/table-grid/cell-navigation.tsx",
+      "documentation-site/examples/table-grid/cell-span.tsx",
+      "documentation-site/examples/table-grid/nested.tsx",
+      "documentation-site/examples/table-grid/sortable.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "table-semantic",
+    "sourcePath": "src/table-semantic",
+    "examplePaths": [
+      "documentation-site/examples/table-semantic/alternating.tsx",
+      "documentation-site/examples/table-semantic/basic.tsx",
+      "documentation-site/examples/table-semantic/builder.tsx",
+      "documentation-site/examples/table-semantic/cells.tsx",
+      "documentation-site/examples/table-semantic/empty-message.tsx",
+      "documentation-site/examples/table-semantic/scroll.tsx",
+      "documentation-site/examples/table-semantic/sortable.tsx",
+      "documentation-site/examples/table-semantic/span.tsx",
+      "documentation-site/examples/table-semantic/toggleable.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "tabs",
+    "sourcePath": "src/tabs",
+    "examplePaths": [
+      "documentation-site/examples/tabs/controlled.tsx",
+      "documentation-site/examples/tabs/custom-keys.tsx",
+      "documentation-site/examples/tabs/overrides.tsx",
+      "documentation-site/examples/tabs/renderall.tsx",
+      "documentation-site/examples/tabs/uncontrolled.tsx",
+      "documentation-site/examples/tabs/vertical.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "tabs-motion",
+    "sourcePath": "src/tabs-motion",
+    "examplePaths": [
+      "documentation-site/examples/tabs-motion/alignment.tsx",
+      "documentation-site/examples/tabs-motion/artwork.tsx",
+      "documentation-site/examples/tabs-motion/basic.tsx",
+      "documentation-site/examples/tabs-motion/disabled.tsx",
+      "documentation-site/examples/tabs-motion/enhancer.tsx",
+      "documentation-site/examples/tabs-motion/fixed.tsx",
+      "documentation-site/examples/tabs-motion/keyboard-activation.tsx",
+      "documentation-site/examples/tabs-motion/keys.tsx",
+      "documentation-site/examples/tabs-motion/refs.tsx",
+      "documentation-site/examples/tabs-motion/renderAll.tsx",
+      "documentation-site/examples/tabs-motion/stateful.tsx",
+      "documentation-site/examples/tabs-motion/tab-override.tsx",
+      "documentation-site/examples/tabs-motion/vertical-orientation.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "tag",
+    "sourcePath": "src/tag",
+    "examplePaths": [
+      "documentation-site/examples/tag/basic.tsx",
+      "documentation-site/examples/tag/clickable-non-closeable.tsx",
+      "documentation-site/examples/tag/clickable.tsx",
+      "documentation-site/examples/tag/custom-color.tsx",
+      "documentation-site/examples/tag/disabled.tsx",
+      "documentation-site/examples/tag/kinds.tsx",
+      "documentation-site/examples/tag/non-clickable.tsx",
+      "documentation-site/examples/tag/non-closeable.tsx",
+      "documentation-site/examples/tag/size.tsx",
+      "documentation-site/examples/tag/variants.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "tag-group",
+    "sourcePath": "src/tag-group",
+    "examplePaths": [
+      "documentation-site/examples/tag-group/hierachy.tsx",
+      "documentation-site/examples/tag-group/size.tsx",
+      "documentation-site/examples/tag-group/wrap.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "template-component",
+    "sourcePath": "src/template-component",
+    "examplePaths": [],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "textarea",
+    "sourcePath": "src/textarea",
+    "examplePaths": [
+      "documentation-site/examples/textarea/basic.tsx",
+      "documentation-site/examples/textarea/ref.tsx",
+      "documentation-site/examples/textarea/resizable.tsx",
+      "documentation-site/examples/textarea/sizes.tsx",
+      "documentation-site/examples/textarea/stateful.tsx",
+      "documentation-site/examples/textarea/states.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "tile",
+    "sourcePath": "src/tile",
+    "examplePaths": [
+      "documentation-site/examples/tile/action.tsx",
+      "documentation-site/examples/tile/alignment.tsx",
+      "documentation-site/examples/tile/multi-select-batch.tsx",
+      "documentation-site/examples/tile/multi-select-live.tsx",
+      "documentation-site/examples/tile/selection-no-trailing-content.tsx",
+      "documentation-site/examples/tile/single-select.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "timepicker",
+    "sourcePath": "src/timepicker",
+    "examplePaths": [
+      "documentation-site/examples/timepicker/timepicker-minmax.tsx",
+      "documentation-site/examples/timepicker/timepicker.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "timezonepicker",
+    "sourcePath": "src/timezonepicker",
+    "examplePaths": [
+      "documentation-site/examples/timezonepicker/timezone-picker.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "toast",
+    "sourcePath": "src/toast",
+    "examplePaths": [
+      "documentation-site/examples/toast/toast-close-from-outside.tsx",
+      "documentation-site/examples/toast/toast-notification.tsx",
+      "documentation-site/examples/toast/toast-same-key-notification.tsx"
+    ],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "tooltip",
+    "sourcePath": "src/tooltip",
+    "examplePaths": [
+      "documentation-site/examples/tooltip/stateful-complex-content.tsx",
+      "documentation-site/examples/tooltip/stateful.tsx"
+    ],
+    "isPortalComponent": true,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      },
+      {
+        "id": "light-interactive",
+        "label": "Light / Interactive",
+        "theme": "light",
+        "state": "interactive"
+      },
+      {
+        "id": "dark-interactive",
+        "label": "Dark / Interactive",
+        "theme": "dark",
+        "state": "interactive"
+      }
+    ]
+  },
+  {
+    "name": "tree-view",
+    "sourcePath": "src/tree-view",
+    "examplePaths": [
+      "documentation-site/examples/tree-view/basic.tsx",
+      "documentation-site/examples/tree-view/custom-label.tsx",
+      "documentation-site/examples/tree-view/interactable.tsx",
+      "documentation-site/examples/tree-view/label-overrides.tsx",
+      "documentation-site/examples/tree-view/overrides.tsx",
+      "documentation-site/examples/tree-view/single-expanded.tsx",
+      "documentation-site/examples/tree-view/uncontrolled.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  },
+  {
+    "name": "typography",
+    "sourcePath": "src/typography",
+    "examplePaths": [
+      "documentation-site/examples/typography/display.tsx",
+      "documentation-site/examples/typography/heading.tsx",
+      "documentation-site/examples/typography/text.tsx"
+    ],
+    "isPortalComponent": false,
+    "variants": [
+      {
+        "id": "light-default",
+        "label": "Light / Default",
+        "theme": "light",
+        "state": "default"
+      },
+      {
+        "id": "dark-default",
+        "label": "Dark / Default",
+        "theme": "dark",
+        "state": "default"
+      }
+    ]
+  }
+]

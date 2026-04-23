@@ -1,0 +1,14 @@
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/App/VinylSwiftUIMVPApp.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSBadge.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSButton.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSSeparator.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/FloatingActionBar.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/MetadataGridCell.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/DiscoverView.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylDetailView.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylPreviews.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylRecord.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSColor.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSRadius.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSSpacing.swift
+/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSTypography.swift

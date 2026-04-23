@@ -1,0 +1,385 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1B6B3E0CE3DE1D55237B37BC /* VinylRecord.swift in Sources */ = {isa = PBXBuildFile; fileRef = D29C0C58486BB0B25C6F1113 /* VinylRecord.swift */; };
+		202968F4D23376AC4A17D051 /* DiscoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F7BF9F54FB9DA855A24D72 /* DiscoverView.swift */; };
+		2CA42A72E35EA459FC18914C /* DSRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B956DAC60D618DE1EC2D153 /* DSRadius.swift */; };
+		37CC411A9C59E1B7A0054127 /* VinylSwiftUIMVPApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF64BB5B3DFD870A8B05750 /* VinylSwiftUIMVPApp.swift */; };
+		567791F88F530789DB1AE262 /* VinylPreviews.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB2D5D38385E9BF17DD4D56 /* VinylPreviews.swift */; };
+		6003180EE650F5E07095D495 /* DSTypography.swift in Sources */ = {isa = PBXBuildFile; fileRef = D80198FB36A2A80C2F3F128B /* DSTypography.swift */; };
+		6EA435880FF4BA851079EC59 /* DSColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AA90005EBEEA0F3B2D3BF08 /* DSColor.swift */; };
+		7A4682F9714473E97B85A41B /* DSSeparator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0A4F857EDEC2F0EBDD2A8B /* DSSeparator.swift */; };
+		8000CA2BAB8ABB09F00EFB27 /* MetadataGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6074F2CB36BEB5F7D4E2F9CC /* MetadataGridCell.swift */; };
+		8628FCA7A50A96D5505EB66B /* FloatingActionBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F183EDB839C475FA87936A /* FloatingActionBar.swift */; };
+		87A2BB4DE284C513A9CEE780 /* DSBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA3A506B9B5E540639987BBE /* DSBadge.swift */; };
+		8E659C084C73A856364E5A32 /* VinylDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C221B800F825E44C2FB979C5 /* VinylDetailView.swift */; };
+		92964B4D53E4DF4DF99D8173 /* DSSpacing.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43E91D3B7E82ACB57FCBCF9 /* DSSpacing.swift */; };
+		EC7C70409C00E598D2E0468D /* DSButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA953FBF9BE2CD905BAD9B99 /* DSButton.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4AA90005EBEEA0F3B2D3BF08 /* DSColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSColor.swift; sourceTree = "<group>"; };
+		6074F2CB36BEB5F7D4E2F9CC /* MetadataGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetadataGridCell.swift; sourceTree = "<group>"; };
+		63F7BF9F54FB9DA855A24D72 /* DiscoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoverView.swift; sourceTree = "<group>"; };
+		6B956DAC60D618DE1EC2D153 /* DSRadius.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSRadius.swift; sourceTree = "<group>"; };
+		AD0A4F857EDEC2F0EBDD2A8B /* DSSeparator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSSeparator.swift; sourceTree = "<group>"; };
+		AEB2D5D38385E9BF17DD4D56 /* VinylPreviews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VinylPreviews.swift; sourceTree = "<group>"; };
+		AF9C53D07AD25722E326F517 /* VinylSwiftUIMVP.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = VinylSwiftUIMVP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BFF64BB5B3DFD870A8B05750 /* VinylSwiftUIMVPApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VinylSwiftUIMVPApp.swift; sourceTree = "<group>"; };
+		C221B800F825E44C2FB979C5 /* VinylDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VinylDetailView.swift; sourceTree = "<group>"; };
+		C5F183EDB839C475FA87936A /* FloatingActionBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingActionBar.swift; sourceTree = "<group>"; };
+		D29C0C58486BB0B25C6F1113 /* VinylRecord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VinylRecord.swift; sourceTree = "<group>"; };
+		D80198FB36A2A80C2F3F128B /* DSTypography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSTypography.swift; sourceTree = "<group>"; };
+		DA953FBF9BE2CD905BAD9B99 /* DSButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSButton.swift; sourceTree = "<group>"; };
+		E43E91D3B7E82ACB57FCBCF9 /* DSSpacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSSpacing.swift; sourceTree = "<group>"; };
+		EA3A506B9B5E540639987BBE /* DSBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSBadge.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		461948B0E3F250C700CAE415 /* VinylSwiftUIMVP */ = {
+			isa = PBXGroup;
+			children = (
+				55B4D76D5310E2FC0805E161 /* App */,
+				989A095634E4CD372194F5C2 /* Components */,
+				E6F175DAD95D81CCDE3CE00A /* Features */,
+				FEE85E36C706A209336244F9 /* Tokens */,
+			);
+			name = VinylSwiftUIMVP;
+			path = Sources/VinylSwiftUIMVP;
+			sourceTree = "<group>";
+		};
+		55B4D76D5310E2FC0805E161 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				BFF64BB5B3DFD870A8B05750 /* VinylSwiftUIMVPApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		77E99520CFF067C6539B4FDC = {
+			isa = PBXGroup;
+			children = (
+				461948B0E3F250C700CAE415 /* VinylSwiftUIMVP */,
+				EC0231FA2EFCD07A9F65002B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		989A095634E4CD372194F5C2 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				EA3A506B9B5E540639987BBE /* DSBadge.swift */,
+				DA953FBF9BE2CD905BAD9B99 /* DSButton.swift */,
+				AD0A4F857EDEC2F0EBDD2A8B /* DSSeparator.swift */,
+				C5F183EDB839C475FA87936A /* FloatingActionBar.swift */,
+				6074F2CB36BEB5F7D4E2F9CC /* MetadataGridCell.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		CEFB2969796AB76A7128714B /* Vinyl */ = {
+			isa = PBXGroup;
+			children = (
+				63F7BF9F54FB9DA855A24D72 /* DiscoverView.swift */,
+				C221B800F825E44C2FB979C5 /* VinylDetailView.swift */,
+				AEB2D5D38385E9BF17DD4D56 /* VinylPreviews.swift */,
+				D29C0C58486BB0B25C6F1113 /* VinylRecord.swift */,
+			);
+			path = Vinyl;
+			sourceTree = "<group>";
+		};
+		E6F175DAD95D81CCDE3CE00A /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				CEFB2969796AB76A7128714B /* Vinyl */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		EC0231FA2EFCD07A9F65002B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AF9C53D07AD25722E326F517 /* VinylSwiftUIMVP.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FEE85E36C706A209336244F9 /* Tokens */ = {
+			isa = PBXGroup;
+			children = (
+				4AA90005EBEEA0F3B2D3BF08 /* DSColor.swift */,
+				6B956DAC60D618DE1EC2D153 /* DSRadius.swift */,
+				E43E91D3B7E82ACB57FCBCF9 /* DSSpacing.swift */,
+				D80198FB36A2A80C2F3F128B /* DSTypography.swift */,
+			);
+			path = Tokens;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FF1FE7D523EC1B05BCBD5C8B /* VinylSwiftUIMVP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B170E2AE8D34AA6668F49BE1 /* Build configuration list for PBXNativeTarget "VinylSwiftUIMVP" */;
+			buildPhases = (
+				01D890640167D9EEB5DA8347 /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = VinylSwiftUIMVP;
+			packageProductDependencies = (
+			);
+			productName = VinylSwiftUIMVP;
+			productReference = AF9C53D07AD25722E326F517 /* VinylSwiftUIMVP.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		65CCACDF3BF50069C78FAF8C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+				};
+			};
+			buildConfigurationList = C56AC56D2D2407FC1A6BCE6E /* Build configuration list for PBXProject "VinylSwiftUIMVP" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = 77E99520CFF067C6539B4FDC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = EC0231FA2EFCD07A9F65002B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FF1FE7D523EC1B05BCBD5C8B /* VinylSwiftUIMVP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		01D890640167D9EEB5DA8347 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87A2BB4DE284C513A9CEE780 /* DSBadge.swift in Sources */,
+				EC7C70409C00E598D2E0468D /* DSButton.swift in Sources */,
+				6EA435880FF4BA851079EC59 /* DSColor.swift in Sources */,
+				2CA42A72E35EA459FC18914C /* DSRadius.swift in Sources */,
+				7A4682F9714473E97B85A41B /* DSSeparator.swift in Sources */,
+				92964B4D53E4DF4DF99D8173 /* DSSpacing.swift in Sources */,
+				6003180EE650F5E07095D495 /* DSTypography.swift in Sources */,
+				202968F4D23376AC4A17D051 /* DiscoverView.swift in Sources */,
+				8628FCA7A50A96D5505EB66B /* FloatingActionBar.swift in Sources */,
+				8000CA2BAB8ABB09F00EFB27 /* MetadataGridCell.swift in Sources */,
+				8E659C084C73A856364E5A32 /* VinylDetailView.swift in Sources */,
+				567791F88F530789DB1AE262 /* VinylPreviews.swift in Sources */,
+				1B6B3E0CE3DE1D55237B37BC /* VinylRecord.swift in Sources */,
+				37CC411A9C59E1B7A0054127 /* VinylSwiftUIMVPApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0ED97D3C09DE9964C5D98E11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Vinyl MVP";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		24E77EEF34FAC16162D67E2A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Vinyl MVP";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3FFBD7FD7FB0BFC05A1E093D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mitteartlab.VinylSwiftUIMVP;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.1;
+			};
+			name = Release;
+		};
+		8A42952CC47E888ABE6A5E4D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mitteartlab.VinylSwiftUIMVP;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.1;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B170E2AE8D34AA6668F49BE1 /* Build configuration list for PBXNativeTarget "VinylSwiftUIMVP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0ED97D3C09DE9964C5D98E11 /* Debug */,
+				24E77EEF34FAC16162D67E2A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		C56AC56D2D2407FC1A6BCE6E /* Build configuration list for PBXProject "VinylSwiftUIMVP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A42952CC47E888ABE6A5E4D /* Debug */,
+				3FFBD7FD7FB0BFC05A1E093D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 65CCACDF3BF50069C78FAF8C /* Project object */;
+}

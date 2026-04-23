@@ -1,0 +1,418 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.VinylSwiftUIMVP-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/sources",
+      "importPath" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/App/VinylSwiftUIMVPApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSBadge.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSButton.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSSeparator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/FloatingActionBar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/MetadataGridCell.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/DiscoverView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylPreviews.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylRecord.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSColor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSRadius.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSSpacing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSTypography.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "VinylSwiftUIMVP",
+      "moduleOutputPath" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/Modules/VinylSwiftUIMVP.swiftmodule",
+      "objects" : [
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/VinylSwiftUIMVPApp.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSBadge.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSButton.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSSeparator.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/FloatingActionBar.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/MetadataGridCell.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DiscoverView.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/VinylDetailView.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/VinylPreviews.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/VinylRecord.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSColor.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSRadius.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSSpacing.swift.o",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSTypography.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j14",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/include/VinylSwiftUIMVP-Swift.h",
+        "-swift-version",
+        "6",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "vinyl_swiftui_mvp"
+      ],
+      "outputFileMapPath" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/VinylSwiftUIMVPApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSBadge.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSButton.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSSeparator.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/FloatingActionBar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/MetadataGridCell.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DiscoverView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/VinylDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/VinylPreviews.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/VinylRecord.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSColor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSRadius.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSSpacing.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/DSTypography.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/Modules/VinylSwiftUIMVP.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/App/VinylSwiftUIMVPApp.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSBadge.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSButton.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSSeparator.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/FloatingActionBar.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/MetadataGridCell.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/DiscoverView.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylDetailView.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylPreviews.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylRecord.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSColor.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSRadius.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSSpacing.swift",
+        "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSTypography.swift"
+      ],
+      "tempsPath" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "VinylSwiftUIMVP" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "VinylSwiftUIMVP",
+      "-package-name",
+      "vinyl_swiftui_mvp",
+      "-c",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/App/VinylSwiftUIMVPApp.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSBadge.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSButton.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSSeparator.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/FloatingActionBar.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/MetadataGridCell.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/DiscoverView.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylDetailView.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylPreviews.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylRecord.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSColor.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSRadius.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSSpacing.swift",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSTypography.swift",
+      "-I",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j14",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/include/VinylSwiftUIMVP-Swift.h",
+      "-swift-version",
+      "6",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "vinyl_swiftui_mvp",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "VinylSwiftUIMVP" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/App/VinylSwiftUIMVPApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSBadge.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSButton.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/DSSeparator.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/FloatingActionBar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Components/MetadataGridCell.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/DiscoverView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylPreviews.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Features/Vinyl/VinylRecord.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSColor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSRadius.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSSpacing.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/Sources/VinylSwiftUIMVP/Tokens/DSTypography.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/VinylSwiftUIMVP.build/sources"
+    },
+    "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/mitteartlab/base-system/ui/apps/vinyl-swiftui-mvp/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

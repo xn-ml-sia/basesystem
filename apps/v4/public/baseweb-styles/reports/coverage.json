@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-04-23T09:36:43.957Z",
+  "totals": {
+    "componentsDiscovered": 80,
+    "componentsCaptured": 60,
+    "variantsAttempted": 182,
+    "variantsCaptured": 140,
+    "variantsFailed": 42
+  },
+  "missingComponents": [
+    "block",
+    "button",
+    "combobox",
+    "data-table",
+    "divider",
+    "flex-grid",
+    "form-control",
+    "heading",
+    "icon",
+    "layout",
+    "link",
+    "menu",
+    "radio-v2",
+    "slider",
+    "tabs-motion",
+    "tag",
+    "tag-group",
+    "template-component",
+    "tree-view",
+    "typography"
+  ],
+  "failures": [
+    {
+      "component": "block",
+      "variant": "light-default",
+      "error": "No React component export found in baseui/block"
+    },
+    {
+      "component": "block",
+      "variant": "dark-default",
+      "error": "No React component export found in baseui/block"
+    },
+    {
+      "component": "button",
+      "variant": "light-default",
+      "error": "No React component export found in baseui/button"
+    },
+    {
+      "component": "button",
+      "variant": "dark-default",
+      "error": "No React component export found in baseui/button"
+    },
+    {
+      "component": "combobox",
+      "variant": "light-default",
+      "error": "Cannot read properties of undefined (reading 'map')"
+    },
+    {
+      "component": "combobox",
+      "variant": "dark-default",
+      "error": "Cannot read properties of undefined (reading 'map')"
+    },
+    {
+      "component": "data-table",
+      "variant": "light-default",
+      "error": "Cannot read properties of undefined (reading 'map')"
+    },
+    {
+      "component": "data-table",
+      "variant": "dark-default",
+      "error": "Cannot read properties of undefined (reading 'map')"
+    },
+    {
+      "component": "divider",
+      "variant": "light-default",
+      "error": "No React component export found in baseui/divider"
+    },
+    {
+      "component": "divider",
+      "variant": "dark-default",
+      "error": "No React component export found in baseui/divider"
+    },
+    {
+      "component": "flex-grid",
+      "variant": "light-default",
+      "error": "No React component export found in baseui/flex-grid"
+    },
+    {
+      "component": "flex-grid",
+      "variant": "dark-default",
+      "error": "No React component export found in baseui/flex-grid"
+    },
+    {
+      "component": "form-control",
+      "variant": "light-default",
+      "error": "React.Children.only expected to receive a single React element child."
+    },
+    {
+      "component": "form-control",
+      "variant": "dark-default",
+      "error": "React.Children.only expected to receive a single React element child."
+    },
+    {
+      "component": "heading",
+      "variant": "light-default",
+      "error": "Heading component must be a descendant of HeadingLevel component."
+    },
+    {
+      "component": "heading",
+      "variant": "dark-default",
+      "error": "Heading component must be a descendant of HeadingLevel component."
+    },
+    {
+      "component": "icon",
+      "variant": "light-default",
+      "error": "Objects are not valid as a React child (found: object with keys {display, fill, color, height, width}). If you meant to render a collection of children, use an array instead."
+    },
+    {
+      "component": "icon",
+      "variant": "dark-default",
+      "error": "Objects are not valid as a React child (found: object with keys {display, fill, color, height, width}). If you meant to render a collection of children, use an array instead."
+    },
+    {
+      "component": "layout",
+      "variant": "light-default",
+      "error": "Module import failed for baseui/layout: Cannot find module 'baseui/layout'\nRequire stack:\n- /Users/mitteartlab/base-system/ui/apps/v4/scripts/extract-baseweb-styles.mts"
+    },
+    {
+      "component": "layout",
+      "variant": "dark-default",
+      "error": "Module import failed for baseui/layout: Cannot find module 'baseui/layout'\nRequire stack:\n- /Users/mitteartlab/base-system/ui/apps/v4/scripts/extract-baseweb-styles.mts"
+    },
+    {
+      "component": "link",
+      "variant": "light-default",
+      "error": "No React component export found in baseui/link"
+    },
+    {
+      "component": "link",
+      "variant": "dark-default",
+      "error": "No React component export found in baseui/link"
+    },
+    {
+      "component": "menu",
+      "variant": "light-default",
+      "error": "Cannot convert undefined or null to object"
+    },
+    {
+      "component": "menu",
+      "variant": "dark-default",
+      "error": "Cannot convert undefined or null to object"
+    },
+    {
+      "component": "menu",
+      "variant": "light-interactive",
+      "error": "Cannot convert undefined or null to object"
+    },
+    {
+      "component": "menu",
+      "variant": "dark-interactive",
+      "error": "Cannot convert undefined or null to object"
+    },
+    {
+      "component": "radio-v2",
+      "variant": "light-default",
+      "error": "Module import failed for baseui/radio-v2: Cannot find module 'baseui/radio-v2'\nRequire stack:\n- /Users/mitteartlab/base-system/ui/apps/v4/scripts/extract-baseweb-styles.mts"
+    },
+    {
+      "component": "radio-v2",
+      "variant": "dark-default",
+      "error": "Module import failed for baseui/radio-v2: Cannot find module 'baseui/radio-v2'\nRequire stack:\n- /Users/mitteartlab/base-system/ui/apps/v4/scripts/extract-baseweb-styles.mts"
+    },
+    {
+      "component": "slider",
+      "variant": "light-default",
+      "error": "Cannot read properties of undefined (reading 'length')"
+    },
+    {
+      "component": "slider",
+      "variant": "dark-default",
+      "error": "Cannot read properties of undefined (reading 'length')"
+    },
+    {
+      "component": "tabs-motion",
+      "variant": "light-default",
+      "error": "Cannot read properties of undefined (reading '0')"
+    },
+    {
+      "component": "tabs-motion",
+      "variant": "dark-default",
+      "error": "Cannot read properties of undefined (reading '0')"
+    },
+    {
+      "component": "tag",
+      "variant": "light-default",
+      "error": "No React component export found in baseui/tag"
+    },
+    {
+      "component": "tag",
+      "variant": "dark-default",
+      "error": "No React component export found in baseui/tag"
+    },
+    {
+      "component": "tag-group",
+      "variant": "light-default",
+      "error": "No React component export found in baseui/tag-group"
+    },
+    {
+      "component": "tag-group",
+      "variant": "dark-default",
+      "error": "No React component export found in baseui/tag-group"
+    },
+    {
+      "component": "template-component",
+      "variant": "light-default",
+      "error": "Module import failed for baseui/template-component: Cannot find module 'baseui/template-component'\nRequire stack:\n- /Users/mitteartlab/base-system/ui/apps/v4/scripts/extract-baseweb-styles.mts"
+    },
+    {
+      "component": "template-component",
+      "variant": "dark-default",
+      "error": "Module import failed for baseui/template-component: Cannot find module 'baseui/template-component'\nRequire stack:\n- /Users/mitteartlab/base-system/ui/apps/v4/scripts/extract-baseweb-styles.mts"
+    },
+    {
+      "component": "tree-view",
+      "variant": "light-default",
+      "error": "Cannot read properties of undefined (reading 'length')"
+    },
+    {
+      "component": "tree-view",
+      "variant": "dark-default",
+      "error": "Cannot read properties of undefined (reading 'length')"
+    },
+    {
+      "component": "typography",
+      "variant": "light-default",
+      "error": "No React component export found in baseui/typography"
+    },
+    {
+      "component": "typography",
+      "variant": "dark-default",
+      "error": "No React component export found in baseui/typography"
+    }
+  ]
+}

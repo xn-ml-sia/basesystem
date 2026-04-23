@@ -1,0 +1,25 @@
+export const MobileHeaderStyleMap = {
+  "component": "mobile-header",
+  "variants": [
+    {
+      "variantId": "dark-default",
+      "theme": "dark",
+      "captureSource": "ssr",
+      "selectors": {
+        ".css-gCMSYC": "min-width:48px;padding-left:8px;pointer-events:auto",
+        ".css-iMmAQA": "-ms-grid-row-align:center;-webkit-box-pack:start;align-self:center;font-family:UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif;font-size:18px;font-weight:500;justify-content:flex-start;line-height:24px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap",
+        ".css-kSDEtJ": "-ms-grid-columns:auto 1fr auto;-ms-grid-rows:48px;background-color:#161616;display:-ms-grid;display:grid;grid-template-columns:auto 1fr auto;grid-template-rows:48px;width:100%"
+      }
+    },
+    {
+      "variantId": "light-default",
+      "theme": "light",
+      "captureSource": "ssr",
+      "selectors": {
+        ".css-dWOJzQ": "-ms-grid-columns:auto 1fr auto;-ms-grid-rows:48px;background-color:#FFFFFF;display:-ms-grid;display:grid;grid-template-columns:auto 1fr auto;grid-template-rows:48px;width:100%",
+        ".css-gCMSYC": "min-width:48px;padding-left:8px;pointer-events:auto",
+        ".css-iMmAQA": "-ms-grid-row-align:center;-webkit-box-pack:start;align-self:center;font-family:UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif;font-size:18px;font-weight:500;justify-content:flex-start;line-height:24px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap"
+      }
+    }
+  ]
+} as const

@@ -1,0 +1,29 @@
+export const ProgressBarStyleMap = {
+  "component": "progress-bar",
+  "variants": [
+    {
+      "variantId": "dark-default",
+      "theme": "dark",
+      "captureSource": "ssr",
+      "selectors": {
+        ".css-geMxfa": "-webkit-box-align:center;-webkit-box-pack:center;align-items:center;display:-moz-box;display:-ms-flexbox;display:-webkit-box;display:-webkit-flex;display:flex;height:36px;justify-content:center;position:relative;width:78px",
+        ".css-gHyODr": "fill:none;height:36px;position:absolute;width:78px",
+        ".css-hUVUnM": "stroke-width:4px;stroke:#3F6EC5;visibility:hidden",
+        ".css-iyGqzP": "stroke-width:4px;stroke:#383838",
+        ".css-kiInKw": "color:#DEDEDE;font-family:UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif;font-size:16px;font-weight:500;line-height:20px"
+      }
+    },
+    {
+      "variantId": "light-default",
+      "theme": "light",
+      "captureSource": "ssr",
+      "selectors": {
+        ".css-dUCXvf": "stroke-width:4px;stroke:#276EF1;visibility:hidden",
+        ".css-geMxfa": "-webkit-box-align:center;-webkit-box-pack:center;align-items:center;display:-moz-box;display:-ms-flexbox;display:-webkit-box;display:-webkit-flex;display:flex;height:36px;justify-content:center;position:relative;width:78px",
+        ".css-gHyODr": "fill:none;height:36px;position:absolute;width:78px",
+        ".css-iZNgNN": "stroke-width:4px;stroke:#E8E8E8",
+        ".css-jwAuXh": "color:#000000;font-family:UberMoveText, system-ui, \"Helvetica Neue\", Helvetica, Arial, sans-serif;font-size:16px;font-weight:500;line-height:20px"
+      }
+    }
+  ]
+} as const

@@ -1,5 +1,5 @@
 ---
-"shadcn": patch
----
+
+## "shadcn": patch
 
 fix chartColor in presets
