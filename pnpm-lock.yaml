@@ -155,8 +155,8 @@ importers:
         specifier: ^2.1.10
         version: 2.1.10(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       '@remixicon/react':
-        specifier: ^4.7.0
-        version: 4.7.0(react@19.2.3)
+        specifier: ^4.9.0
+        version: 4.9.0(react@19.2.3)
       '@tabler/icons-react':
         specifier: ^3.31.0
         version: 3.34.1(react@19.2.3)
@@ -2892,8 +2892,8 @@ packages:
       react-redux:
         optional: true
 
-  '@remixicon/react@4.7.0':
-    resolution: {integrity: sha512-ODBQjdbOjnFguCqctYkpDjERXOInNaBnRPDKfZOBvbzExBAwr2BaH/6AHFTg/UAFzBDkwtylfMT8iKPAkLwPLQ==}
+  '@remixicon/react@4.9.0':
+    resolution: {integrity: sha512-5/jLDD4DtKxH2B4QVXTobvV1C2uL8ab9D5yAYNtFt+w80O0Ys1xFOrspqROL3fjrZi+7ElFUWE37hBfaAl6U+Q==}
     peerDependencies:
       react: '>=18.2.0'
 
@@ -11086,7 +11086,7 @@ snapshots:
       react: 19.2.3
       react-redux: 9.2.0(@types/react@19.2.2)(react@19.2.3)(redux@5.0.1)
 
-  '@remixicon/react@4.7.0(react@19.2.3)':
+  '@remixicon/react@4.9.0(react@19.2.3)':
     dependencies:
       react: 19.2.3
 
