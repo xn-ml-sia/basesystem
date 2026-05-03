@@ -95,51 +95,49 @@ export default async function Page(props: {
         <div className="h-(--top-spacing) shrink-0" />
         <div className="mx-auto flex w-full max-w-[40rem] min-w-0 flex-1 flex-col gap-6 px-4 py-6 text-neutral-800 md:px-0 lg:py-8 dark:text-neutral-300">
           <div className="flex flex-col gap-2">
-            <div className="flex flex-col gap-2">
-              <div className="flex items-center justify-between md:items-start">
-                <h1 className="scroll-m-24 text-3xl font-semibold tracking-tight sm:text-3xl">
-                  {doc.title}
-                </h1>
-                <div className="docs-nav flex items-center gap-2">
-                  <div className="hidden sm:block">
-                    <DocsCopyPage page={raw} url={absoluteUrl(page.url)} />
-                  </div>
-                  <div className="ml-auto flex gap-2">
-                    {neighbours.previous && (
-                      <Button
-                        variant="secondary"
-                        size="icon"
-                        className="extend-touch-target size-8 shadow-none md:size-7"
-                        asChild
-                      >
-                        <Link href={neighbours.previous.url}>
-                          <IconArrowLeft />
-                          <span className="sr-only">Previous</span>
-                        </Link>
-                      </Button>
-                    )}
-                    {neighbours.next && (
-                      <Button
-                        variant="secondary"
-                        size="icon"
-                        className="extend-touch-target size-8 shadow-none md:size-7"
-                        asChild
-                      >
-                        <Link href={neighbours.next.url}>
-                          <span className="sr-only">Next</span>
-                          <IconArrowRight />
-                        </Link>
-                      </Button>
-                    )}
-                  </div>
+            <div className="flex items-center justify-between md:items-start">
+              <h1 className="scroll-m-24 text-3xl font-semibold tracking-tight sm:text-3xl">
+                {doc.title}
+              </h1>
+              <div className="docs-nav flex items-center gap-2">
+                <div className="hidden sm:block">
+                  <DocsCopyPage page={raw} url={absoluteUrl(page.url)} />
+                </div>
+                <div className="ml-auto flex gap-2">
+                  {neighbours.previous && (
+                    <Button
+                      variant="secondary"
+                      size="icon"
+                      className="extend-touch-target size-8 shadow-none md:size-7"
+                      asChild
+                    >
+                      <Link href={neighbours.previous.url}>
+                        <IconArrowLeft />
+                        <span className="sr-only">Previous</span>
+                      </Link>
+                    </Button>
+                  )}
+                  {neighbours.next && (
+                    <Button
+                      variant="secondary"
+                      size="icon"
+                      className="extend-touch-target size-8 shadow-none md:size-7"
+                      asChild
+                    >
+                      <Link href={neighbours.next.url}>
+                        <span className="sr-only">Next</span>
+                        <IconArrowRight />
+                      </Link>
+                    </Button>
+                  )}
                 </div>
               </div>
-              {doc.description && (
-                <p className="text-[1.05rem] text-muted-foreground sm:text-base sm:text-balance md:max-w-[80%]">
-                  {doc.description}
-                </p>
-              )}
             </div>
+            {doc.description && (
+              <p className="text-[1.05rem] text-muted-foreground sm:text-base sm:text-balance md:max-w-[80%]">
+                {doc.description}
+              </p>
+            )}
           </div>
           <div className="w-full flex-1 pb-16 *:data-[slot=alert]:first:mt-0 sm:pb-0">
             {params.slug &&

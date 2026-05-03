@@ -8,6 +8,10 @@ A set of beautifully designed components that you can customize, extend, and bui
 
 Visit https://ui.shadcn.com/docs to view the documentation.
 
+## Agent / fork design system
+
+This fork layers a **token- and component-level design direction** on the v4 app (see [`DESIGN.md`](./DESIGN.md)). For how other agents should extend surfaces, scope palettes, and run the app, read **[`AGENT-DESIGN-SYSTEM.md`](./AGENT-DESIGN-SYSTEM.md)**.
+
 ## Contributing
 
 Please read the [contributing guide](/CONTRIBUTING.md).

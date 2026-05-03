@@ -9,6 +9,7 @@ import {
   Inter,
   Playfair_Display,
 } from "next/font/google"
+import localFont from "next/font/local"
 
 import { cn } from "@/lib/utils"
 
@@ -58,6 +59,18 @@ const fontPlayfairDisplay = Playfair_Display({
   variable: "--font-playfair-display",
 })
 
+const fontUberMoveBold = localFont({
+  src: "../public/fonts/ubermove/UberMoveBold.otf",
+  variable: "--font-uber-move-bold",
+  display: "swap",
+})
+
+const fontUberMoveMedium = localFont({
+  src: "../public/fonts/ubermove/UberMoveMedium.otf",
+  variable: "--font-uber-move-medium",
+  display: "swap",
+})
+
 export const fontVariables = cn(
   fontSans.variable,
   fontMono.variable,
@@ -67,5 +80,7 @@ export const fontVariables = cn(
   fontNotoSansArabic.variable,
   fontNotoSansHebrew.variable,
   fontPlayfairDisplay.variable,
-  fontLora.variable
+  fontLora.variable,
+  fontUberMoveBold.variable,
+  fontUberMoveMedium.variable
 )

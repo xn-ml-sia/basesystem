@@ -1,16 +1,34 @@
 import { Button } from "@workspace/ui/components/button"
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@workspace/ui/components/card"
+import { Input } from "@workspace/ui/components/input"
 
 export default function Home() {
   return (
-    <div className="flex min-h-svh p-6">
-      <div className="flex max-w-md min-w-0 flex-col gap-4 text-sm leading-loose">
-        <div>
-          <h1 className="font-medium">Project ready!</h1>
-          <p>You may now add components and start building.</p>
-          <p>We&apos;ve already added the button component for you.</p>
-          <Button className="mt-2">Button</Button>
-        </div>
-      </div>
+    <div className="flex min-h-svh items-center justify-center p-6">
+      <Card className="w-full max-w-md">
+        <CardHeader>
+          <CardTitle>Project ready</CardTitle>
+          <CardDescription>
+            Token baseline and starter components are wired in.
+          </CardDescription>
+        </CardHeader>
+        <CardContent>
+          <Input placeholder="name@example.com" />
+        </CardContent>
+        <CardFooter>
+          <Button className="w-full">Continue</Button>
+          <Button variant="outline" className="w-full">
+            Docs
+          </Button>
+        </CardFooter>
+      </Card>
     </div>
   )
 }
